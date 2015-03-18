@@ -1,9 +1,10 @@
 {
-  "name": "angular-amap",
+  "name": "angular-amap-l42y",
   "main": "angular-amap.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "L42y <423300@gmail.com>"
+    "DivX <wishgood@gmail.com>"
   ],
   "description": "Amap JavaScript API integrate with AngularJS",
   "keywords": [
